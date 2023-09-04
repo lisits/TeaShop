@@ -1,2 +1,3 @@
-***Tea Shop project***
-*Made as semester work*
+##Tea Shop project
+___
+Made as Semester Work
